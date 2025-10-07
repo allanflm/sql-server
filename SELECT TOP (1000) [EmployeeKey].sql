@@ -1,4 +1,4 @@
-SELECT TOP (1000) [EmployeeKey]
+SELECT TOP (100) [EmployeeKey]
       ,[ParentEmployeeKey]
       ,[EmployeeNationalIDAlternateKey]
       ,[ParentEmployeeNationalIDAlternateKey]
